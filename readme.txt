@@ -1,3 +1,4 @@
-git is a good version of computer software
+Git is a distributed verson control system.
+git is free software distributed under the gpl.
 
 
